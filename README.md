@@ -1,5 +1,7 @@
 # Hi there, I'm Ashley 👋
-Undergrad @ Johns Hopkins University | Electrical Engineering & Computer Science
+Stanford | Electrical Engineering
+
+Building AI agents for embedded systems engineers
 
 <a href="https://www.linkedin.com/in/ashleyluoyx/"><img alt="Linkedin Badge" src="https://img.shields.io/badge/-Ashley%20Luo-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashley-luo-04382624a/"/></a>
 
